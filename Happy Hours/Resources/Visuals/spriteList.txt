@@ -1,0 +1,189 @@
+97 60
+
+BLOCK Global/caisse.png
+
+BLOCK Library/AngleInward/Bottom_Left.png
+BLOCK Library/AngleInward/Bottom_Right.png
+BLOCK Library/AngleInward/Top_Left.png
+BLOCK Library/AngleInward/Top_Right.png
+
+BLOCK Library/AngleOutward/Bottom_Left.png
+BLOCK Library/AngleOutward/Bottom_Right.png
+BLOCK Library/AngleOutward/Top_Left.png
+BLOCK Library/AngleOutward/Top_Right.png
+
+BLOCK Library/Ground/Ground.png
+BLOCK Library/Ground/Left_End.png
+BLOCK Library/Ground/Mid.png
+BLOCK Library/Ground/Right_End.png
+
+BLOCK Library/Walls/Left.png
+BLOCK Library/Walls/Left_Bottom_End.png
+BLOCK Library/Walls/Left_Mid.png
+BLOCK Library/Walls/Left_Top_End.png
+BLOCK Library/Walls/Right.png
+BLOCK Library/Walls/Right_Bottom_End.png
+BLOCK Library/Walls/Right_Mid.png
+BLOCK Library/Walls/Right_Top_End.png
+
+BLOCK Library/Roof/Roof.png
+BLOCK Library/Roof/Left_End.png
+BLOCK Library/Roof/Mid.png
+BLOCK Library/Roof/Right_End.png
+
+BLOCK Library/Escalier_Left.png
+BLOCK Library/Escalier_Left_Mid.png
+BLOCK Library/Escalier_Left_Up.png
+BLOCK Library/Escalier_Right.png
+BLOCK Library/Escalier_Right_Mid.png
+BLOCK Library/Escalier_Right_Up.png
+
+BLOCK Library/Angle/Bottom_Left.png
+BLOCK Library/Angle/Bottom_Right.png
+BLOCK Library/Angle/Top_Left.png
+BLOCK Library/Angle/Top_Right.png
+
+BLOCK Library/LittleBoxCut/BoxBottom_Left.png
+BLOCK Library/LittleBoxCut/BoxBottom_Right.png
+BLOCK Library/LittleBoxCut/BoxTop_Left.png
+BLOCK Library/LittleBoxCut/BoxTop_Right.png
+BLOCK Library/LittleBoxCut/BoxLeft_Bottom.png
+BLOCK Library/LittleBoxCut/BoxLeft_Top.png
+BLOCK Library/LittleBoxCut/BoxRight_Bottom.png
+BLOCK Library/LittleBoxCut/BoxRight_Top.png
+
+BLOCK Library/LittleGround/Left_End.png
+BLOCK Library/LittleGround/Mid.png
+BLOCK Library/LittleGround/Right_End.png
+
+BLOCK Library/LittleRoof/Left_End.png
+BLOCK Library/LittleRoof/Mid.png
+BLOCK Library/LittleRoof/Right_End.png
+
+BLOCK Library/LittleWalls/Left_Bottom_End.png
+BLOCK Library/LittleWalls/Left_Mid.png
+BLOCK Library/LittleWalls/Left_Top_End.png
+BLOCK Library/LittleWalls/Right_Bottom_End.png
+BLOCK Library/LittleWalls/Right_Mid.png
+BLOCK Library/LittleWalls/Right_Top_End.png
+
+BLOCK Library/Bibliotheque_Corner.png
+BLOCK Library/Bibliotheque_Horizontale.png
+BLOCK Library/Bibliotheque_Verticale.png
+
+BLOCK Library/Etagere.png
+BLOCK Library/Dalle.png
+
+BLOCK Forest/Branch/branches.png
+
+BLOCK Forest/Ground/big_ground.png
+BLOCK Forest/Ground/big_ground_left.png
+BLOCK Forest/Ground/ground_right.png
+
+BLOCK Forest/Platforms/plateforme_1.png
+BLOCK Forest/Platforms/plateforme_2.png
+
+BLOCK Forest/Rock/rock.png
+
+BLOCK Forest/Ronce/ronces_2.png
+
+BLOCK Forest/Tree/souche_bloc.png
+BLOCK Forest/Tree/tronc_mid.png
+BLOCK Forest/Tree/tronc_haut.png
+BLOCK Forest/Tree/tronc_top.png
+BLOCK Forest/Tree/tronc.png
+
+BLOCK Forest/Web/spider_web.png
+
+BLOCK Forest/Pressure_Plate/plaque_off_bloc.png
+BLOCK Forest/Pressure_Plate/plaque_on_bloc.png
+
+BLOCK Library/block_left.png
+BLOCK Library/bloc_mil.png
+BLOCK Library/block_right.png
+
+BLOCK Forest/Tree/tronc_plus.png
+
+BLOCK Castle/bloc.png
+BLOCK Castle/bloc_right.png
+BLOCK Castle/bloc_left.png
+BLOCK Castle/roof.png
+BLOCK Castle/brick.png
+
+BLOCK Castle/corner_in/corner_left.png
+BLOCK Castle/corner_in/corner_right.png
+BLOCK Castle/corner_in/corner_up_left.png
+BLOCK Castle/corner_in/corner_up_right.png
+
+BLOCK Castle/corner_out/corner_out_left.png
+BLOCK Castle/corner_out/corner_out_right.png
+BLOCK Castle/corner_out/corner_out_down_left.png
+BLOCK Castle/corner_out/corner_out_down_right.png
+
+BLOCK Castle/platform.png
+BLOCK Castle/blick_bloc.png
+
+BLOCK Forest/Branch/branches_reverse.png
+BLOCK Castle/bloc_background_boss.png
+
+DECOR Library/Chandelier/ 1 9999.0
+DECOR Library/Pedestal/ 12 1.5
+DECOR Library/Baniere/ 1 9999.0
+DECOR Library/Bibliotheque/ 1 9999.0
+DECOR Library/Livres_1/ 1 9999.0
+DECOR Library/Livres_2/ 1 9999.0
+DECOR Library/Livres_3/ 1 9999.0
+DECOR Library/Livres_4/ 1 9999.0
+DECOR Library/Lever/ 5 0.5
+DECOR Library/PressurePlate/ 2 0.3
+DECOR Library/Door/ 6 1.0
+DECOR Library/Vitrine/ 1 9999.0
+DECOR Library/Corde/ 1 9999.0
+DECOR Library/Ladder/ 1 9999.0
+DECOR Library/SpiderWeb/ 1 9999.0
+DECOR Library/SaveStatue/ 1 9999.0
+
+DECOR Forest/Branch/ 1 9999.0
+DECOR Forest/Bushes/ 1 9999.0
+DECOR Forest/Bushes_2/ 1 9999.0
+DECOR Forest/Bushes_3/ 1 9999.0
+DECOR Forest/Bushes_4/ 1 9999.0
+DECOR Forest/Bushes_5/ 1 9999.0
+DECOR Forest/Bushes_6/ 1 9999.0
+DECOR Forest/Flower/ 1 9999.0
+DECOR Forest/Flower_1/ 1 9999.0
+DECOR Forest/Grass/ 1 9999.0
+DECOR Forest/Ladder/ 1 9999.0
+DECOR Forest/Liane/ 1 9999.0
+DECOR Forest/Platform/ 1 9999.0
+DECOR Forest/Platform_2/ 1 9999.0
+DECOR Forest/Pressure_Plate/ 2 0.3
+DECOR Forest/Ronce/ 1 9999.0
+DECOR Forest/Switch/ 5 0.5
+DECOR Forest/Tree/ 1 9999.0
+DECOR Forest/Souche/ 1 9999.0
+DECOR Forest/Souche_2/ 1 9999.0
+DECOR Forest/Souche_3/ 1 9999.0
+DECOR Forest/Leaf/ 1 9999.0
+DECOR Forest/Background/ 1 9999.0
+DECOR Forest/Flower_2/ 1 9999.0
+DECOR Forest/Branch_2/ 1 9999.0
+DECOR Forest/Door/ 7 1.0
+DECOR Forest/Ronce_En_Feu/ 16 0.5
+DECOR Forest/Toile_En_Feu/ 12 0.5
+DECOR Forest/Parchemin/ 13 1.0
+DECOR Library/Parchemin/ 13 1.0
+DECOR Forest/Platform_3/ 8 1.0
+DECOR HUD/Hud_Bourgeon_Fleur/ 11 0.7
+DECOR HUD/Hud_Fire_Ice/ 7 0.7
+DECOR Forest/Transition/ 1 9999.0
+DECOR Forest/Trou/ 1 9999.0
+DECOR Forest/Panneau/ 1 9999.0
+DECOR Forest/Tombe_1/ 1 9999.0
+DECOR Forest/Tombe_2/ 1 9999.0
+DECOR Forest/Tombe_3/ 1 9999.0
+DECOR Forest/Tombe_4/ 1 9999.0
+DECOR Forest/Tombe_5/ 1 9999.0
+DECOR Forest/Tombe_6/ 1 9999.0
+DECOR Forest/Tombe_7/ 1 9999.0
+DECOR Forest/Filtre/ 1 9999.0

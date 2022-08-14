@@ -1,0 +1,33 @@
+Ouvrez le dossier “Happy Hours” et lancez le fichier “Happy Hours.exe”. 
+
+
+Pour une expérience optimale nous conseillons de jouer avec une manette xbox ou pc, toutefois certaines manettes ne 
+fonctionnant pas sur le jeu il est possible de jouer au clavier:
+
+Les flèches correspondent au pad directionnel gauche et permettent de se déplacer et de monter des echelles/lianes.
+
+La touche [espace] correspond au bouton [X] et permet d'attaquer.
+
+La touche [alt gr] correspond au bouton [A] et permet de sauter ou de passer les dialogues.
+
+La touche [Maj] de droite correspond au bouton [Y] et permet d'intéragir avec des objets.
+
+La touche [P] correspond au bouton [B] et permet de lancer un sort.
+
+La touche [O] correspond au gachettes [LB] et [RB] et permet de changer de sort.
+
+La touche [Echap] correspond au bouton [+] et permet de mettre le jeu en pause.
+
+La souris correspond au pad directionnel gauche dans les menus.
+
+
+
+
+Bugs connus :
+- Passez la cinématique de début et de fin peux entrainer un léger bug d'image ou de son, profitez plutôt de l'histoire !
+
+- Un certain interrupteur dans le jeu est entouré de deux portes, celle de droite perd sa collision un court instant lorsque
+l'on active l'interrupteur, n'allez pas vers la droite directement après avoir activé cet interrupteur où vous vous 
+retrouverez coincé, si cela vous arrive il faudra fermer le jeu et recommencer du début.
+
+- L'ajustement de la musique et des effets ne fonctionne qu'avec la manette
